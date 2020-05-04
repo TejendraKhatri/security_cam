@@ -1,4 +1,4 @@
-# security_cam
+# security_cam_with_facial_recognition
 security camera implementation using openCV
 
 I have used Raspberry pi 2 for this project
