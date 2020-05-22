@@ -18,7 +18,7 @@ app.config['BASIC_AUTH_PASSWORD'] = 'CHANGE_ME'  #CHANGE THIS
 app.config['BASIC_AUTH_FORCE'] = True
 
 basic_auth = BasicAuth(app)
-last_epoch = 0
+last_epoch =  0
 
 def check_for_objects():
 	global last_epoch
