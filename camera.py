@@ -39,7 +39,7 @@ class VideoCamera(object):
         if len(objects) > 0:
             found_objects = True
 
-        # Draw a rectangle around the objects
+        # Draw a rectangle around the objects(face/body)
         for (x, y, w, h) in objects:
             cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
 
