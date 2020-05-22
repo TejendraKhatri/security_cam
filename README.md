@@ -3,6 +3,7 @@ security camera implementation using openCV
 
 I have used Raspberry pi 2 for this project
 
+Time consuming: 4 - 10 hrs depending on the Raspberry Pi model
 Instructions on how to install openCV on the raspberry pi:
 https://pimylifeup.com/raspberry-pi-opencv/
 
